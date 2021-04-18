@@ -13,8 +13,14 @@ Use a switch statement to implement the user menu choice.
 Use the following statements to implement/simulate the options/cases: 
 
 cout &lt;&lt; "You choose Single Player " &lt;&lt; endl;
+
 cout &lt;&lt; "You choose Multiple Player -Computer " &lt;&lt; endl; 
+
 cout &lt;&lt; "You choose Multiple Player -Player " &lt;&lt; endl;
+
 cout &lt;&lt; "You choose Multiple Player -Internet " &lt;&lt; endl;
+
 cout &lt;&lt; "You choose to exit " &lt;&lt; endl;
+
 cout &lt;&lt; "You choose an invalid choice " &lt;&lt; endl;
+
