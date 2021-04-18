@@ -2,10 +2,18 @@
 Create a program that Prints out a menu of options 
 
 1.Single player 
+
 2.Two player –You verse computer generated player 
+
 3.Two player –You verse another person player 
+
 4.Multiplayer –Internet connection –Real persons
-5.Exit Prompt the user for the option they want. 
+
+5.Exit 
+
+Prompt the user for the option they want. 
+
+
 
 Check that they entered a valid option. 
 Use a switch statement to implement the user menu choice. 
